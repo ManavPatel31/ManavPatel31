@@ -40,17 +40,17 @@ Hello, my name is Manav Patel, a Machine Learning Engineer with 2+ years of expe
 
 
 ## 📽️ Projects
-#1. Bycycle Theft (Toronto Police).
+## Bycycle Theft (Toronto Police).
 
 Using supervised learning algorithms, these models are trained on historical data, such as time of day, location, and weather conditions, to identify patterns and correlations between various factors and the likelihood of a theft occurring. This data is then used to make predictions about where and when thefts are most likely to occur in the future. By analyzing data from previous years, researchers have found that bicycle thefts tend to occur more frequently in certain areas, such as downtown Toronto, and at certain times of day, such as during rush hour. They have also found that factors such as weather conditions and the type of bike can play a role in the likelihood of a theft occurring. Using these insights, machine learning models can be trained to predict the likelihood of a bicycle theft occurring in a particular location and at a particular time. This information can be used by law enforcement and other stakeholders to deploy resources more effectively and reduce the overall number of thefts in the city. Overall, the use of machine learning and predictive modeling techniques has shown promise in addressing the issue of bicycle theft in Toronto, and could potentially be applied in other cities and contexts as well.
 <img width="1097" alt="BicycleTheft" src="https://user-images.githubusercontent.com/90365773/233512102-859d6157-a2ca-4101-81f1-6011614b8838.png">
 
-#2. Lunar Lander Mission using TF-Agents.
+## 2. Lunar Lander Mission using TF-Agents.
 
 The mission's objective is to successfully land the rover between the two flags. For reinforcement learning models, the lunar lander mission poses a number of difficulties, including the large dimensionality of the input space, the sparse reward structure, and the requirement to strike a balance between exploration and exploitation. To solve these issues, I have employed several methodologies such as deep neural networks, value-based systems, and actor-critic models. I've shown that tf agents can successfully learn to navigate the spacecraft and land securely on the moon by training these models in a simulated lunar lander environment. Additionally, these models can be used to investigate various circumstances and environments, such as altering the gravitational force or the existence of impediments.
 ![lunarLander](https://user-images.githubusercontent.com/90365773/233512126-42a4020b-e86f-4caa-85f3-9befac4e1a6c.gif)
 
-#3. MIT-Indoor Scene Detection.
+## 3. MIT-Indoor Scene Detection.
 
 During my tenure as a student studying data science, I was involved in an image classification project that utilized a convolutional neural network (CNN) to accurately categorize indoor scenes in the MIT-IndoorScene dataset. Our main objective was to create a model that could correctly identify the indoor environment depicted in an image, such as an office, living room, or bedroom. To achieve this, we utilized transfer learning techniques to take advantage of the pre-trained weights of a commonly used CNN architecture, which we then fine-tuned on our own dataset using the Adam optimizer. In addition, we employed data augmentation strategies such as random rotations and flips to introduce more variety in our training data, which helped to enhance the generalization capabilities of our model. After a thorough evaluation process, our model achieved an accuracy of over 90%, demonstrating the efficacy of CNNs for indoor scene classification. Our work has important applications in fields like robotics, where precise scene recognition is essential for autonomous navigation and interaction with indoor environments.
 ![MIT-Indoorpng](https://user-images.githubusercontent.com/90365773/233512135-55a13f68-127f-4afa-a4e3-52a9d26abddf.png)
