@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> I'm Manav Patel</h1>
+<h1 align="center">Hello, I'm Manav Patel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
 
 ## 🚀 About Me
@@ -40,7 +40,7 @@ Hello, my name is Manav Patel, a Machine Learning Engineer with 2+ years of expe
 
 
 ## 📽️ Projects
-## Bycycle Theft (Toronto Police).
+## 1. Bycycle Theft (Toronto Police).
 
 Using supervised learning algorithms, these models are trained on historical data, such as time of day, location, and weather conditions, to identify patterns and correlations between various factors and the likelihood of a theft occurring. This data is then used to make predictions about where and when thefts are most likely to occur in the future. By analyzing data from previous years, researchers have found that bicycle thefts tend to occur more frequently in certain areas, such as downtown Toronto, and at certain times of day, such as during rush hour. They have also found that factors such as weather conditions and the type of bike can play a role in the likelihood of a theft occurring. Using these insights, machine learning models can be trained to predict the likelihood of a bicycle theft occurring in a particular location and at a particular time. This information can be used by law enforcement and other stakeholders to deploy resources more effectively and reduce the overall number of thefts in the city. Overall, the use of machine learning and predictive modeling techniques has shown promise in addressing the issue of bicycle theft in Toronto, and could potentially be applied in other cities and contexts as well.
 <img width="1097" alt="BicycleTheft" src="https://user-images.githubusercontent.com/90365773/233512102-859d6157-a2ca-4101-81f1-6011614b8838.png">
