@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm Manav Patel</h1>
+<h1 align="center">Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> I'm Manav Patel</h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning</h3>
 
 ## 🚀 About Me
