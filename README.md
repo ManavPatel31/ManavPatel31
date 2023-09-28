@@ -69,7 +69,7 @@ During my tenure as a student studying data science, I was involved in an image 
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1QYj9h1qyouvf8D6geU7H7r7ZhJhIL9xB/view?usp=share_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/19yNywFNqVPt_bnSHub5mKrErHuimqgSb/view?usp=drivesdk)
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manav-patel-25326520a/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ManavPatel31)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](manav.patel4251@gmail.com)
