@@ -48,6 +48,7 @@ Using supervised learning algorithms, these models are trained on historical dat
 ## 2. Lunar Lander Mission using TF-Agents.
 
 The mission's objective is to successfully land the rover between the two flags. For reinforcement learning models, the lunar lander mission poses a number of difficulties, including the large dimensionality of the input space, the sparse reward structure, and the requirement to strike a balance between exploration and exploitation. To solve these issues, I have employed several methodologies such as deep neural networks, value-based systems, and actor-critic models. I've shown that tf agents can successfully learn to navigate the spacecraft and land securely on the moon by training these models in a simulated lunar lander environment. Additionally, these models can be used to investigate various circumstances and environments, such as altering the gravitational force or the existence of impediments.
+
 ![lunarLander](https://user-images.githubusercontent.com/90365773/233512126-42a4020b-e86f-4caa-85f3-9befac4e1a6c.gif)
 
 ## 3. MIT-Indoor Scene Detection.
