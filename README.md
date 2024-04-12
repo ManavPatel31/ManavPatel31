@@ -18,14 +18,14 @@ Hello, my name is Manav Patel, a Machine Learning Engineer with 2+ years of expe
 - Designed Artificial Neural Networks using McCulloch-Pitts, Perceptron models and Multi-Layer Perceptron (MLP) networks using Keras and TensorFlow.
 
 ## 🛠️ Tech Stack
-
+![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)
+![Keras](https://img.shields.io/badge/Keras-323330?style=for-the-badge&logo=Keras&logoColor=F7DF1E)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFLow&logoColor=F7DF1E)
+![Scikit-learn](https://img.shields.io/badge/SkLearn-323330?style=for-the-badge&logo=ScikitLearn&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-323330?style=for-the-badge&logo=C&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
 ![MySql](https://img.shields.io/badge/MySql-323330?style=for-the-badge&logo=MySql&logoColor=F7DF1E)
-![Keras](https://img.shields.io/badge/Keras-323330?style=for-the-badge&logo=Keras&logoColor=F7DF1E)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFLow&logoColor=F7DF1E)
-![Scikit-learn](https://img.shields.io/badge/SkLearn-323330?style=for-the-badge&logo=ScikitLearn&logoColor=F7DF1E)
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
